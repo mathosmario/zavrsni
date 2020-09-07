@@ -1,3 +1,4 @@
+##Cubismo
 1.OPIS
 
 * Cubismo je interaktivna igra napravljena u sklopu završnog rada koristeći Unity engine
@@ -13,6 +14,7 @@
 * Kontrole
    * pomicanje desno: **D**
    * pomicanje lijevo: **A**
+   * izlaz iz igre: **Escape""
 ## Završni rad
 * "Izrada interaktivne igre u grafičkom pokretaču Unity"
   * Autor: **Mario Korov**
